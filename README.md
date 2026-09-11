@@ -1,6 +1,7 @@
-# FPSDC OpenWork Desktop
+# PSDC Desktop Client
 
-OpenWork-derived desktop client selected by ADR-0018. Source has not been imported.
+This desktop client is derived from the eligible open-source core of OpenWork,
+as selected by ADR-0018. Source has not been imported.
 
 The client connects only to a deployment's Commons AI Gateway and the released
 Agent Session Contract. The
@@ -13,7 +14,7 @@ umbrella architecture before importing code.
 
 Distribution, white-labelling, institutional OIDC and the signed deployment
 manifest are defined by
-`fpsdc-architecture:docs/clients/Institution-Branded-Client-Distribution-and-Access.md`.
+`psdc-architecture:docs/clients/Institution-Branded-Client-Distribution-and-Access.md`.
 
 The planned release serves both institution-managed campus endpoints and supported
 personal Windows, macOS and Linux computers. Installing this client never enrolls

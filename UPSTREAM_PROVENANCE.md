@@ -1,4 +1,4 @@
-# Upstream Provenance — FPSDC OpenWork Desktop
+# Upstream Provenance — PSDC OpenWork Desktop
 
 > State: Source not imported; ADR-0018 gates apply.
 
