@@ -1,4 +1,4 @@
-# PSDC Desktop Client
+# Algonquin Desktop Client
 
 This desktop client is derived from the eligible open-source core of OpenWork,
 as selected by ADR-0018. Source has not been imported.
